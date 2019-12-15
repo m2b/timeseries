@@ -1,0 +1,15 @@
+tag,descripion,datatype,units,min,max
+SITE1.L4.UNIT1.TEMP1,temp1 for site1,float,°F,-50,150
+SITE1.L4.UNIT2.TEMP2,temp2 for site1,float,°C,0,50
+SITE1.L4.UNIT5.ISOPEN1,isopen1 for site1,bool,none,false,true
+SITE2.L4.UNIT1.PRESS1,press1 for site2,float,psia,0,150
+SITE2.L4.UNIT1.PRESS2,press2 for site2,float,psig,25,100
+SITE2.L4.UNIT1.STATE1,state1 for site2,string,none,na,na
+SITE3.L4.UNIT3.PRESS1,press1 for site3,float,atm,0,1
+SITE3.L4.UNIT2.STATE1,press2 for site3,float,psig,25,100
+SITE4.L4.UNIT1.FLOW1,flow1 for site4,float,bpd,0,250
+SITE4.L4.UNIT3.PRESS1,press1 for site4,float,in H2O,-1,5
+SITE5.L4.UNIT4.WIDGETS1,widgets1 for site5,int,count,0,750000
+SITE5.L4.UNIT5.PRESS1,press1 for site5,float,psig,50,250
+SITE5.L4.UNIT1.TEMP1,temp1 for site5,float,°F,0,125
+SITE5.L4.UNIT5.STATE1,state1 for site5,string,none,na,na

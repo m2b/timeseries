@@ -1,0 +1,3 @@
+tag,descripion,datatype,units,min,max
+PANAMA.TEMP,temp for Panama City,float,°F,-10,130
+PANAMA.DEWPT,dew pt temp for Panama City,float,°C,0,50
